@@ -12,14 +12,14 @@ export default function Contact() {
         </div>
         <div className="space-y-6">
           <a
-            href="tel:+91XXXXXXXXXX"
+            href="+91-6375326205"
             className="flex items-center gap-4 text-gray-400 hover:text-[#00ADB5] transition-colors duration-300"
           >
             <Phone className="h-6 w-6" />
             <span>+91-6375326205</span>
           </a>
           <a
-            href="mailto:deepanshu.gupta@example.com"
+            href="deepanshu08gupta@gmail.com"
             className="flex items-center gap-4 text-gray-400 hover:text-[#00ADB5] transition-colors duration-300"
           >
             <Mail className="h-6 w-6" />
@@ -33,7 +33,7 @@ export default function Contact() {
             <span>github.com/deepanshu-gupta</span>
           </a> */}
           <a
-            href="https://www.linkedin.com/in/deepanshu-gupta-067350152/"
+            href="https://www.linkedin.com/in/gupta8deepanshu/"
             className="flex items-center gap-4 text-gray-400 hover:text-[#00ADB5] transition-colors duration-300"
           >
             <Linkedin className="h-6 w-6" />
